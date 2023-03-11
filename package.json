@@ -1,7 +1,7 @@
 {
-  "name": "react-pg",
+  "name": "react-json-formatter",
   "version": "0.1.0",
-  "private": true,
+  "private": null,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A peace of code that takes input and corrects the json formatting",
+  "main": "index.js",
+  "author": "Jiku Godwill Nsanwi <65053264+Jikugodwill@users.noreply.github.com>",
+  "license": "MIT"
 }
